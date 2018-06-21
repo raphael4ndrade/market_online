@@ -20,7 +20,3 @@ Uma aplicação simples de controle de pedidos de um mercado. Dentre as funciona
 
 Os arquivos de configuração de conexão com o banco de dados estão disponíveis no
 script 'db_connection.php', usando os valores padrões do postgreSQL.
-
-dbname = market_online
-
-Inclusos nesse projeto o script sql de criação do mesmo e o dump do banco.
